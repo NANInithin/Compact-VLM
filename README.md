@@ -25,7 +25,7 @@ We tested the model against **Counter-Factual Visuals** (Purple Banana) and **Ph
 
 | **Control Image (Real)** | **Adversarial Trap (Shifted)** |
 | :---: | :---: |
-| <img src="data/banana_real.png" width="200"/> | <img src="data/banana_purple_real.png" width="200"/> |
+| <img src="data/banana_real.jpg" width="200"/> | <img src="data/banana_purple_real.png" width="200"/> |
 | **Question:** "What color?" | **Question:** "What color?" |
 | **Model:** "Yellow" ✅ | **Model:** "Pink/Purple" ✅ |
 | *(Vision Encoder works)* | *(No Modality Collapse)* |
