@@ -126,3 +126,8 @@ python src/experiment_cot.py
 
 - **Model:** SmolVLM2-2.2B-Instruct by Hugging Face TB.
 - **Hardware:** Experiments ran on NVIDIA RTX 4060 Laptop GPU (8GB VRAM).
+
+## 📚 References
+* **Model:** [SmolVLM2-2.2B-Instruct](https://huggingface.co/HuggingFaceTB/SmolVLM2-2.2B-Instruct)
+* **Authors:** Hugging Face TB (The Data Trove Team)
+* **License:** Apache 2.0
