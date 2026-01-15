@@ -19,13 +19,27 @@ This project investigates:
 3. **The "Phantom Object" Trap:** Can we trick it into inventing objects? (Result: ❌ Yes)
 4. **The Fix:** Using **Chain-of-Thought (CoT)** to force a visual audit.
 
-## 📊 Key Results
+## 📊 Key Results & Visuals
 
-| Experiment Type | Sticker (Hallucination) | Apple (Co-occurrence) | Bowl (Visual Ambiguity) |
-| :--- | :--- | :--- | :--- |
-| **Standard Inference** | ❌ Fails (Invents text) | ❌ Fails (Invents apple) | ❌ Fails (Says "Ceramic") |
-| **Defensive Prompt** | ✅ Fixed | ✅ Fixed | ❌ Fails (Still says "Ceramic") |
-| **CoT Visual Audit** | ✅ **Fixed** | ✅ **Fixed** | ✅ **Fixed** |
+We tested the model against **Counter-Factual Visuals** (Purple Banana) and **Phantom Prompts** (Sticker/Bowl).
+
+| **Control Image (Real)** | **Adversarial Trap (Shifted)** |
+| :---: | :---: |
+| <img src="banana_real.png" width="200"/> | <img src="banana_purple_real.png" width="200"/> |
+| **Question:** "What color?" | **Question:** "What color?" |
+| **Model:** "Yellow" ✅ | **Model:** "Pink/Purple" ✅ |
+| *(Vision Encoder works)* | *(No Modality Collapse)* |
+
+<br>
+
+### 🛡️ Hallucination & The Fix
+
+When asked about non-existent objects (Sticker, Bowl), the model hallucinated. We fixed this using **Chain-of-Thought (CoT)**.
+
+| Experiment Type | Sticker (Hallucination) | Bowl (Visual Ambiguity) |
+| :--- | :--- | :--- |
+| **Standard Inference** | ❌ *"The sticker says Organic..."* | ❌ *"It is a ceramic bowl."* |
+| **CoT Visual Audit** | ✅ *"I do not see a sticker."* | ✅ *"I do not see a bowl."* |
 
 ---
 
