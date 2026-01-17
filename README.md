@@ -114,15 +114,27 @@ We conducted a formal evaluation using a subset of the **COCO Validation 2017** 
 * **Result:** **0% Hallucination Rate.**
 * **Analysis:** The model is robust against direct questioning. It correctly identifies that objects are missing when asked neutrally.
 
+```bash
+python src/benchmark_pope.py
+```
+
 ### **2. The Attack (Presupposition - Hard Mode)**
 * **Method:** Used "Leading Questions" that presuppose the object exists (e.g., *"Describe the toaster"*).
 * **Result:** **93.75% Hallucination Rate.**
 * **Analysis:** The model exhibits severe "Sycophancy" (agreeing with the user). When forced to describe a non-existent object, it invents details (colors, shapes) 93% of the time rather than correcting the user.
 
+```bash
+python src/benchmark_hard.py
+```
+
 ### **3. The Defense (Chain-of-Thought Mitigation)**
 * **Method:** We implemented a "Visual Audit" prompt requiring the model to list observed objects *before* answering.
 * **Result:** **50.00% Hallucination Rate.**
 * **Impact:** Our CoT strategy **reduced hallucinations by ~44%** compared to the naive baseline.
+
+```bash
+python src/benchmark_defense.py
+```
 
 | Experiment Mode | Prompt Strategy | Failure Rate |
 | :--- | :--- | :--- |
