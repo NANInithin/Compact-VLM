@@ -105,8 +105,46 @@ Implements a 2-step "Visual Audit" prompt:
 ```bash
 python src/experiment_cot.py
 ```
+## 📊 Quantitative Results (The "Hallucination Benchmark")
+
+We conducted a formal evaluation using a subset of the **COCO Validation 2017** dataset (N=32 verified images). We tested three scenarios to measure the model's robustness against hallucination.
+
+### **1. The Baseline (POPE - Simple Probing)**
+* **Method:** Asked binary Yes/No questions about non-existent objects (e.g., *"Is there a toaster?"*).
+* **Result:** **0% Hallucination Rate.**
+* **Analysis:** The model is robust against direct questioning. It correctly identifies that objects are missing when asked neutrally.
+
+### **2. The Attack (Presupposition - Hard Mode)**
+* **Method:** Used "Leading Questions" that presuppose the object exists (e.g., *"Describe the toaster"*).
+* **Result:** **93.75% Hallucination Rate.**
+* **Analysis:** The model exhibits severe "Sycophancy" (agreeing with the user). When forced to describe a non-existent object, it invents details (colors, shapes) 93% of the time rather than correcting the user.
+
+### **3. The Defense (Chain-of-Thought Mitigation)**
+* **Method:** We implemented a "Visual Audit" prompt requiring the model to list observed objects *before* answering.
+* **Result:** **50.00% Hallucination Rate.**
+* **Impact:** Our CoT strategy **reduced hallucinations by ~44%** compared to the naive baseline.
+
+| Experiment Mode | Prompt Strategy | Failure Rate |
+| :--- | :--- | :--- |
+| **Baseline** | *"Is there a [X]?"* | 🟢 **0.00%** |
+| **Attack (No Defense)** | *"Describe the [X]..."* | 🔴 **93.75%** |
+| **Defense (CoT)** | *"List objects, then answer..."* | 🟡 **50.00%** |
+
+> **Conclusion:** While Chain-of-Thought significantly improves robustness, the 2.2B parameter model still struggles with strong presuppositions, suggesting that smaller models prioritize instruction following over factual grounding.
 
 **Result:** Hallucinations dropped to 0%.
+
+## 🔌 Offline Testing Guide
+
+To prevent `MaxRetryError` crashes when the internet is disconnected, use one of the following methods:
+
+### **Method 1: The Environment Variable (Recommended)**
+This forces the Hugging Face library to use your local cache without checking for updates.
+
+**For Windows (PowerShell):**
+```powershell
+$env:HF_HUB_OFFLINE=1
+python experiment_phantom.py
 
 ## 📂 Repository Structure
 
