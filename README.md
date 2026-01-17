@@ -145,6 +145,7 @@ This forces the Hugging Face library to use your local cache without checking fo
 ```powershell
 $env:HF_HUB_OFFLINE=1
 python experiment_phantom.py
+```
 
 ## 📂 Repository Structure
 
