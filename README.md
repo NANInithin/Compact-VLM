@@ -225,15 +225,15 @@ python src/train_lora.py
 
 **Training Configuration:**
 - **Quantization:** 4-bit NF4 with BFloat16 compute
-- **LoRA Rank:** 16, Alpha: 32
+- **LoRA Rank:** 32, Alpha: 64
 - **Target Modules:** Query, Key, Value projections
-- **Batch Size:** 1 (gradient accumulation: 4)
-- **Learning Rate:** 2e-4
-- **Epochs:** 3
+- **Batch Size:** 1 (gradient accumulation: 8)
+- **Learning Rate:** 1e-4
+- **Epochs:** 10
 
 **Hardware Requirements:**
 - GPU: NVIDIA RTX 4060 (8GB VRAM)
-- Training Time: ~2 hours for 100 examples
+- Training Time: ~1 hour for 100 examples
 
 #### Step 3: Qualitative Validation
 
@@ -388,7 +388,7 @@ If you use this work in your research, please cite:
 
 ```bibtex
 @misc{vlm-hallucination-mitigation-2026,
-  author = {NAN Inithin},
+  author = {NANInithin},
   title = {Mitigating Hallucination in Compact VLMs via Chain-of-Thought and Fine-Tuning},
   year = {2026},
   publisher = {GitHub},
