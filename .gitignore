@@ -1,5 +1,29 @@
+# --- Python & Environment ---
+.venv/
 venv/
+env/
 __pycache__/
 *.pyc
+
+# --- IDE Settings ---
 .vscode/
-data/coco_subset/*
+.idea/
+
+# --- Data ---
+# Exclude the entire data folder since scripts generate it
+data/
+
+# --- Model Weights & Artifacts ---
+# Exclude the fine-tuned adapter folder visible in your screenshot
+smolvlm-finetuned-defense/
+
+# Exclude generic model weight files (just in case)
+*.safetensors
+*.bin
+*.pt
+*.pth
+adapter_model.bin
+adapter_config.json
+
+# --- Jupyter Notebook Checkpoints ---
+.ipynb_checkpoints/
