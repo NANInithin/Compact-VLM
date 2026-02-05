@@ -1,0 +1,4162 @@
+[
+  {
+    "image": "data/coco_subset\\coco_1000.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the headphones in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a headphones in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1000.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the keyboard in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a keyboard in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1000.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the hair drier in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a hair drier in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1000.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the stapler in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a stapler in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1000.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the toaster in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a toaster in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1268.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the stapler in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a stapler in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1268.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the lamp in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a lamp in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1268.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the parking meter in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a parking meter in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1268.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the scanner in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a scanner in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1268.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the book in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a book in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1296.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the lamp in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a lamp in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1296.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the stapler in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a stapler in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1296.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the book in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a book in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1296.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the scanner in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a scanner in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1296.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the watch in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a watch in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1353.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the lamp in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a lamp in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1353.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the mouse in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a mouse in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1353.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the cup in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a cup in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1353.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the toaster in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a toaster in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1353.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the keyboard in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a keyboard in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_139.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the bottle in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a bottle in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_139.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the book in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a book in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_139.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the cup in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a cup in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_139.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the joystick in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a joystick in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_139.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the watch in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a watch in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1425.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the monitor in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a monitor in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1425.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the toaster in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a toaster in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1425.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the chair in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a chair in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1425.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the book in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a book in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1425.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the lamp in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a lamp in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1490.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the printer in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a printer in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1490.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the book in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a book in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1490.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the joystick in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a joystick in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1490.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the lamp in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a lamp in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1490.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the keyboard in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a keyboard in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1503.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the microwave in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a microwave in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1503.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the bottle in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a bottle in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1503.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the book in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a book in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1503.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the toothbrush in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a toothbrush in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1503.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the scanner in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a scanner in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1532.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the mouse in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a mouse in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1532.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the teddy bear in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a teddy bear in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1532.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the headphones in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a headphones in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1532.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the joystick in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a joystick in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1532.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the parking meter in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a parking meter in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1584.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the hair drier in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a hair drier in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1584.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the chair in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a chair in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1584.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the watch in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a watch in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1584.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the printer in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a printer in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1584.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the toaster in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a toaster in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1675.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the toothbrush in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a toothbrush in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1675.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the scanner in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a scanner in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1675.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the snowboard in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a snowboard in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1675.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the teddy bear in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a teddy bear in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1675.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the toaster in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a toaster in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1761.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the giraffe in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a giraffe in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1761.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the printer in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a printer in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1761.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the hair drier in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a hair drier in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1761.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the microwave in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a microwave in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1761.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the bottle in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a bottle in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1818.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the joystick in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a joystick in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1818.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the keyboard in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a keyboard in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1818.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the parking meter in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a parking meter in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1818.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the mouse in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a mouse in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1818.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the clock in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a clock in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1993.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the microwave in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a microwave in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1993.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the monitor in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a monitor in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1993.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the clock in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a clock in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1993.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the stapler in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a stapler in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1993.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the parking meter in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a parking meter in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_2153.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the snowboard in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a snowboard in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_2153.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the mouse in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a mouse in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_2153.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the monitor in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a monitor in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_2153.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the giraffe in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a giraffe in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_2153.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the bottle in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a bottle in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_2261.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the mouse in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a mouse in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_2261.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the keyboard in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a keyboard in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_2261.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the bottle in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a bottle in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_2261.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the printer in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a printer in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_2261.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the giraffe in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a giraffe in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_2685.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the snowboard in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a snowboard in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_2685.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the hair drier in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a hair drier in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_2685.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the lamp in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a lamp in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_2685.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the cup in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a cup in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_2685.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the scanner in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a scanner in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_285.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the mouse in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a mouse in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_285.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the scanner in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a scanner in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_285.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the toothbrush in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a toothbrush in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_285.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the book in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a book in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_285.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the toaster in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a toaster in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_2923.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the hair drier in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a hair drier in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_2923.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the toothbrush in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a toothbrush in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_2923.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the teddy bear in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a teddy bear in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_2923.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the bottle in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a bottle in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_2923.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the monitor in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a monitor in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_3501.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the keyboard in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a keyboard in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_3501.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the headphones in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a headphones in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_3501.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the hair drier in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a hair drier in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_3501.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the monitor in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a monitor in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_3501.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the snowboard in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a snowboard in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_3553.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the toaster in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a toaster in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_3553.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the mouse in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a mouse in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_3553.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the hair drier in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a hair drier in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_3553.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the toothbrush in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a toothbrush in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_3553.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the joystick in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a joystick in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_3661.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the chair in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a chair in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_3661.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the lamp in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a lamp in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_3661.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the headphones in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a headphones in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_3661.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the cup in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a cup in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_3661.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the parking meter in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a parking meter in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_3845.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the mouse in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a mouse in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_3845.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the toaster in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a toaster in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_3845.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the book in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a book in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_3845.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the giraffe in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a giraffe in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_3845.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the microwave in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a microwave in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_3934.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the stapler in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a stapler in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_3934.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the giraffe in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a giraffe in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_3934.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the toothbrush in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a toothbrush in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_3934.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the bottle in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a bottle in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_3934.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the clock in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a clock in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_4134.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the headphones in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a headphones in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_4134.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the clock in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a clock in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_4134.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the parking meter in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a parking meter in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_4134.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the chair in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a chair in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_4134.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the snowboard in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a snowboard in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_4395.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the clock in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a clock in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_4395.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the mouse in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a mouse in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_4395.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the monitor in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a monitor in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_4395.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the printer in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a printer in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_4395.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the teddy bear in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a teddy bear in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_4795.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the printer in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a printer in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_4795.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the hair drier in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a hair drier in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_4795.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the microwave in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a microwave in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_4795.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the chair in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a chair in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_4795.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the toothbrush in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a toothbrush in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_632.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the giraffe in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a giraffe in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_632.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the monitor in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a monitor in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_632.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the microwave in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a microwave in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_632.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the headphones in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a headphones in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_632.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the parking meter in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a parking meter in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_724.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the headphones in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a headphones in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_724.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the hair drier in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a hair drier in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_724.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the clock in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a clock in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_724.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the bottle in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a bottle in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_724.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the chair in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a chair in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_785.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the chair in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a chair in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_785.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the parking meter in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a parking meter in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_785.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the toothbrush in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a toothbrush in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_785.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the book in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a book in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_785.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the joystick in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a joystick in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_872.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the scanner in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a scanner in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_872.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the watch in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a watch in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_872.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the cup in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a cup in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_872.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the chair in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a chair in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_872.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the parking meter in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a parking meter in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_885.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the mouse in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a mouse in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_885.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the teddy bear in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a teddy bear in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_885.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the hair drier in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a hair drier in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_885.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the bottle in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a bottle in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_885.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the toothbrush in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a toothbrush in this image."
+          }
+        ]
+      }
+    ]
+  }
+]

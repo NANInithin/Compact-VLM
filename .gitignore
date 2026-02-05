@@ -10,11 +10,11 @@ __pycache__/
 .idea/
 
 # --- Data ---
-# Exclude the entire data folder since scripts generate it
-data/
+# Ignore the large downloaded image folder
+data/coco_subset/
 
 # --- Model Weights & Artifacts ---
-# Exclude the fine-tuned adapter folder visible in your screenshot
+# Exclude the fine-tuned adapter folder (too large for GitHub)
 smolvlm-finetuned-defense/
 
 # Exclude generic model weight files (just in case)

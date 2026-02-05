@@ -1,0 +1,1666 @@
+[
+  {
+    "image": "data/coco_subset\\coco_1000.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the tennis racket. in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The tennis racket is pink and has a black handle."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1000.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the chair in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a chair in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1268.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the bridge. in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The bridge is a large, arched structure with a metal framework, spanning over a river. It has a curved design and is supported by several pillars"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1268.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the giraffe in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a giraffe in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1296.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the cell phone. in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The cell phone is white with a pink Hello Kitty design on it."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1296.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the lamp in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a lamp in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1353.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the train. in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The image depicts a group of children riding in a red and yellow train car, which is part of a larger train that is moving along a track."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1353.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the parking meter in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a parking meter in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_139.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the television. in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The television is a flat-screen model, placed on a stand, and is turned off."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_139.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the cup in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a cup in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1425.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the sandwich. in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The sandwich is a combination of meat and cheese, with a slice of bread on top."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1425.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the teddy bear in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a teddy bear in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1490.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the paddle. in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The paddle is a long, thin, and flat tool used for propelling a paddleboard. It has a handle at the top and a blade at the"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1490.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the toothbrush in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a toothbrush in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1503.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the computer. in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The computer is a Macintosh, featuring a large monitor, a keyboard, and a mouse."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1503.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the bottle in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a bottle in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1532.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the car. in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The car is a black SUV with a black roof rack."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1532.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the microwave in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a microwave in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1584.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the bus. in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The bus is a red double-decker bus, a classic symbol of London. It's a vintage model, likely from the 195"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1584.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the toaster in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a toaster in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1675.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the cat. in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The cat is black and white, with a long body and a white face."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1675.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the watch in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a watch in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1761.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the bridge. in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The bridge is a large, steel arch bridge with a distinctive design, spanning a large body of water. It has multiple lanes for vehicles and is supported"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1761.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the book in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a book in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1818.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the zebra. in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The zebra is a black and white animal with a striped pattern on its body. It is standing in a grassy area and is nursing its young."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1818.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the mouse in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a mouse in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1993.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the bed. in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The bed is a bed with a colorful blanket on it."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_1993.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the toaster in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a toaster in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_2153.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the baseball bat. in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The baseball bat is a long, wooden stick with a curved end, used by the batter to hit the ball."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_2153.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the giraffe in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a giraffe in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_2261.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the surfer. in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The surfer is a young man wearing a black wetsuit, swimming in the ocean on a blue surfboard."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_2261.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the lamp in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a lamp in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_2685.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the wine. in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The wine is a red wine, with a rich and full-bodied flavor profile, and a hint of fruitiness. It has a smooth and vel"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_2685.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the chair in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a chair in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_285.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the bear. in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The image features a large brown bear with a thick coat of fur, sitting on a grassy field. The bear appears to be in a relaxed state,"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_285.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the snowboard in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a snowboard in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_2923.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the boat. in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The boat is white and blue, and it is docked in the water."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_2923.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the snowboard in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a snowboard in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_3501.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the bowl. in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The bowl is white and round, placed on a dark wooden table. It contains rice, broccoli, and a red and orange vegetable mixture."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_3501.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the book in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a book in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_3553.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the skateboard. in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The skateboard is a wooden board with black wheels, a blue deck, and a black and white checkered pattern on the bottom."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_3553.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the stapler in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a stapler in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_3661.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the banana. in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The image features a bunch of bananas placed on a wooden surface, with a computer keyboard and a blue cup in the background. The bananas are yellow and"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_3661.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the stapler in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a stapler in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_3845.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the plate. in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The plate is round, with a colorful pattern on it, and it contains a variety of food items, including rice, vegetables, and meat."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_3845.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the bottle in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a bottle in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_3934.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the wii remote. in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The wii remote is a handheld device used to control the game console, and it is held by the child in the image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_3934.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the clock in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a clock in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_4134.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the shake. in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "A man in a suit and tie is shaking hands with another man in a traditional Asian outfit. They are in a large room with many tables and chairs"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_4134.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the giraffe in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a giraffe in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_4395.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the tie. in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The tie is a black and white striped tie, with a pattern of alternating stripes in black and white."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_4395.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the chair in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a chair in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_4795.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the cat. in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The cat is black and white, with a long tail and white whiskers. It is sitting on a desk, looking at a computer screen."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_4795.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the cup in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a cup in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_632.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the bed. in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The bed is covered with blue comforter and has a blue pillow on it."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_632.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the giraffe in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a giraffe in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_724.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the stop sign. in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The stop sign is a red octagonal sign with the word \"STOP\" written in white letters. It is mounted on a metal pole and is located"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_724.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the watch in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a watch in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_785.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the skier. in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The skier is a woman wearing a red jacket, black pants, and a black and white striped hat. She is also wearing blue ski boots and"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_785.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the clock in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a clock in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_872.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the baseball. in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The baseball is a small, round, brown ball with a white seam, used in the sport of baseball."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_872.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the parking meter in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a parking meter in this image."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_885.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the tennis racket. in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "The tennis racket is red and black, with a red handle and black strings."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "image": "data/coco_subset\\coco_885.jpg",
+    "conversations": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "text",
+            "text": "Describe the mouse in this image."
+          }
+        ]
+      },
+      {
+        "role": "assistant",
+        "content": [
+          {
+            "type": "text",
+            "text": "I do not see a mouse in this image."
+          }
+        ]
+      }
+    ]
+  }
+]

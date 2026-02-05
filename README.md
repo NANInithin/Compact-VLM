@@ -102,8 +102,8 @@ When asked about non-existent objects, the base model hallucinates. We implement
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/vlm-hallucination-project.git
-cd vlm-hallucination-project
+git clone https://github.com/NANInithin/Compact-VLM.git
+cd Compact-VLM
 ```
 
 ### 2. Set Up the Environment
@@ -189,11 +189,13 @@ python src/experiment_phantom.py
 python src/experiment_cot.py
 ```
 
-**Method:** Implement a 2-step "Visual Audit" prompt:
+**Method:** We implemented a custom 2-step "Visual Audit" prompt:
 1. "List all objects you see in the image."
 2. "Based ONLY on the list, answer: [question]"
 
 **Result:** Reduced hallucinations by **~44%** (from 93% to 50%).
+
+**Note:** The Chain-of-Thought prompting strategy was developed and implemented as part of this research project.
 
 ---
 
@@ -267,12 +269,12 @@ For each image, we:
 | Model Configuration | Strategy | Hallucination Rate | Utility (Vision) | Safety Score |
 | :--- | :--- | :---: | :---: | :---: |
 | Base Model | Naive Leading Question | 🔴 **93.75%** | 100% | 6.25% |
-| Prompt Engineering | Chain-of-Thought | 🟡 **50.00%** | 100% | 50.00% |
+| Prompt Engineering (Ours) | Chain-of-Thought | 🟡 **50.00%** | 100% | 50.00% |
 | Fine-Tuned (Ours) | Yin-Yang Adapter | 🟢 **21.88%** | 96.88% | **78.12%** |
 
 **Interpretation:**
 - **Base Model:** Severe sycophancy — agrees with almost any suggestion
-- **CoT Prompting:** Moderate improvement, but still vulnerable to strong leading questions
+- **CoT Prompting (Our Implementation):** Moderate improvement, but still vulnerable to strong leading questions
 - **Fine-Tuned Model:** Achieved 78% safety score by learning refusal patterns, with minimal impact on real object recognition
 
 ---
@@ -285,7 +287,7 @@ Run the evaluations yourself:
 # 1. Baseline (The Attack)
 python src/benchmark_hard.py
 
-# 2. Prompt Engineering Defense
+# 2. Prompt Engineering Defense (Our CoT Implementation)
 python src/benchmark_defense.py
 
 # 3. Fine-Tuned Model
@@ -299,7 +301,7 @@ python src/benchmark_sft.py
 ## 📂 Repository Structure
 
 ```
-vlm-hallucination-project/
+Compact-VLM/
 ├── data/                           # Images and training data
 │   ├── banana_real.jpg             # Control image (real banana)
 │   ├── banana_purple_real.png      # Adversarial image (purple banana)
@@ -386,12 +388,12 @@ If you use this work in your research, please cite:
 
 ```bibtex
 @misc{vlm-hallucination-mitigation-2026,
-  author = {Your Name},
+  author = {NAN Inithin},
   title = {Mitigating Hallucination in Compact VLMs via Chain-of-Thought and Fine-Tuning},
   year = {2026},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/yourusername/vlm-hallucination-project}}
+  howpublished = {\url{https://github.com/NANInithin/Compact-VLM}}
 }
 ```
 
@@ -401,8 +403,8 @@ If you use this work in your research, please cite:
 
 For questions, issues, or collaboration opportunities:
 
-- **GitHub Issues:** [Open an issue](https://github.com/yourusername/vlm-hallucination-project/issues)
-- **Email:** your.email@example.com
+- **GitHub Issues:** [Open an issue](https://github.com/NANInithin/Compact-VLM/issues)
+- **GitHub:** [@NANInithin](https://github.com/NANInithin)
 
 ---
 
