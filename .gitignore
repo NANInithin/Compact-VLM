@@ -1,23 +1,26 @@
-# --- Python & Environment ---
+# --- Python & Virtual Environments ---
+__pycache__/
+*.pyc
 .venv/
 venv/
 env/
-__pycache__/
-*.pyc
 
 # --- IDE Settings ---
 .vscode/
 .idea/
 
-# --- Data ---
-# Ignore the large downloaded image folder
+# --- Large Data Folders ---
+# We keep the JSONs and Bananas, but ignore the large COCO images
 data/coco_subset/
 
 # --- Model Weights & Artifacts ---
-# Exclude the fine-tuned adapter folder (too large for GitHub)
+# Exclude the Adapter folder (It's on Hugging Face now)
 smolvlm-finetuned-defense/
 
-# Exclude generic model weight files (just in case)
+# Exclude the Merged Model folder (It's on Hugging Face now)
+smolvlm-defense-merged/
+
+# Exclude generic heavy model files (Safety net)
 *.safetensors
 *.bin
 *.pt
@@ -25,5 +28,13 @@ smolvlm-finetuned-defense/
 adapter_model.bin
 adapter_config.json
 
-# --- Jupyter Notebook Checkpoints ---
+# --- Legacy / Debug Scripts ---
+# Ignore these files so they don't clutter the repo
+src/generate_training_data.py
+src/debug_adapter.py
+src/benchmark_final.py
+src/verify_training.py
+
+# --- Miscellaneous ---
+.DS_Store
 .ipynb_checkpoints/

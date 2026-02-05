@@ -6,6 +6,7 @@
 [![Model: SmolVLM2](https://img.shields.io/badge/Model-SmolVLM2_2.2B-red)](https://huggingface.co/HuggingFaceTB/SmolVLM2-2.2B-Instruct)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![CUDA 12.8](https://img.shields.io/badge/CUDA-12.8-green.svg)](https://developer.nvidia.com/cuda-toolkit)
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-orange)](https://huggingface.co/NANI-Nithin/SmolVLM-Hallucination-Defense)
 
 </div>
 
